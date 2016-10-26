@@ -183,6 +183,7 @@ return [
         Barryvdh\DomPDF\ServiceProvider::class,
         Maatwebsite\Excel\ExcelServiceProvider::class,
         Appzcoder\CrudGenerator\CrudGeneratorServiceProvider::class,
+        Creativeorange\Gravatar\GravatarServiceProvider::class,
 
     ],
 
@@ -236,6 +237,7 @@ return [
         'Excel' => Maatwebsite\Excel\Facades\Excel::class,
         'Form' => Collective\Html\FormFacade::class,
         'Html' => Collective\Html\HtmlFacade::class,
+        'Gravatar' => Creativeorange\Gravatar\Facades\Gravatar::class,
 
     ],
 

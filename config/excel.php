@@ -106,7 +106,7 @@ return array(
     |
     */
 
-    'creator'    => 'Maatwebsite',
+    'creator'    => 'Sipetrik',
 
     'csv'        => array(
         /*

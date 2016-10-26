@@ -39,8 +39,7 @@ desired effect
 
 
             @yield('content')
-
-    @include('layouts.partials.controlsidebar')
+            
 
     @include('layouts.partials.footer')
 
