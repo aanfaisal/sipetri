@@ -1,4 +1,4 @@
-@extends('layouts.app')
+@extends('layouts.master')
 
 @section('htmlheader_title')
     {{ trans('adminlte_lang::message.pagenotfound') }}
